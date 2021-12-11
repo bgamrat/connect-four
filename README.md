@@ -1,4 +1,4 @@
-#React Connect Four 'game'#
+# React Connect Four 'game' #
 
 Shamelessly adapted from <https://reactjs.org/tutorial/tutorial.html>
 
